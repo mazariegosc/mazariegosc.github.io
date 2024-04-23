@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/caroline-mazariegos-46501620b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoBa54IjSQ2eTUR8eJhtRuQ%3D%3D"
   - label: Resume
-    url: "MazariegosResume2.html" 
+    url: "MazariegosResume3.html" 
   - label: Email
     url: "mailto:carolinemaz07@gmail.com"
 output:
@@ -14,25 +14,27 @@ output:
 
 ## Bio
 
-I am an undergraduate student at Simmons University majoring in Data Science and Analytics and minoring in Public Health and Biostatistics. I am interested in using data analysis with global healthcare data in order to create solutions to real-world problems. I have completed coursework that demonstrate some of the data science skills I possess.
+I am an undergraduate student at Simmons University double majoring in Data Science and Analytics and Statistics with a minor in Public Health. I am interested in using data analysis with global healthcare data in order to create solutions to real-world problems. I have completed coursework that demonstrate some of the data science skills I possess.
 
 ## Education
 
 **Simmons University** \| Boston, MA
 
-B.A. Data Science and Analytics \| August 2020 - May 2024 (Anticipated)
+B.S. Data Science and Analytics and Statistics \| August 2020 - May 2024 (Anticipated)
 
-      - Minors: Public Health and Biostatistics 
+      - Minor: Public Health 
 
       - Honors Program 
+      
 
 ## Experience
 
-**Global Technology Analyst** \| Bank of America \| June 2023 - August 2023
-
 **Research Data Coder** \| Brigham and Women's Hospital \| January 2022 - Present
 
+**Global Technology Analyst** \| Bank of America \| June 2023 - August 2023
+
 **Data Entry Intern** \| Broadstreet Institute \| January 2022 - March 2022
+
 
 ## Relevant Courses
 
@@ -43,6 +45,17 @@ B.A. Data Science and Analytics \| August 2020 - May 2024 (Anticipated)
 -   **Data Interoperability** \| Fall 2022
 -   **Special Topics (Time Series)** \| Spring 2023
 -   **Regression Models** \| Spring 2023
+-   **Machine Learning** \| Spring 2024
+
+## Machine Learning Algorithms 
+
+-   **Linear Regression**
+-   **Logistic Regression**
+-   **Decision Trees**
+-   **Clustering**
+-   **Neural Networks**
+-   **SVM**
+
 
 ## Relevant Coursework
 
@@ -57,3 +70,7 @@ B.A. Data Science and Analytics \| August 2020 - May 2024 (Anticipated)
 **Data Interoperability -** *Use Case*
 
 1.  [**College Majors and Their Graduates**](FINAL_M.mp4) \| December 2022
+
+**Special Topics (Time Series) -** *Final Project*
+
+1. [**Droughts in U.S.**](Project_TS.html) \| May 2023
