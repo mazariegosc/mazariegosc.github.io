@@ -14,15 +14,18 @@ output:
 
 ## Bio
 
-I am an undergraduate student at Simmons University double majoring in Data Science and Analytics and Statistics with a minor in Public Health. I am interested in using data analysis with global healthcare data in order to create solutions to real-world problems. I have completed coursework that demonstrate some of the data science skills I possess.
+I am a recent graduate from Simmons University, holding a double major in Data Science and Analytics and Statistics, with a minor in Public Health. I am passionate about using data analysis and machine learning on global healthcare data to develop innovative solutions for real-world problems. My academic journey has equipped me with a robust set of data science skills, demonstrated through my various coursework and projects. I am particularly interested in using machine learning techniques to uncover insights and drive decision-making in healthcare. 
+
 
 ## Education
 
 **Simmons University** \| Boston, MA
 
-B.S. Data Science and Analytics and Statistics \| August 2020 - May 2024 (Anticipated)
+B.S. Data Science and Analytics & Statistics \| August 2020 - May 2024
 
       - Minor: Public Health 
+      
+      - Summa Cum Laude 
 
       - Honors Program 
       
