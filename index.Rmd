@@ -49,10 +49,18 @@ B.S. Data Science and Analytics and Statistics \| August 2020 - May 2024 (Antici
 
 ## Machine Learning Algorithms 
 
+-   **Simple Rules (1Rule)**
+-   **Naive Bayes**
 -   **Linear Regression**
 -   **Logistic Regression**
+-   **KNN**
+-   **Association Rules**
 -   **Decision Trees**
--   **Clustering**
+-   **K Clustering**
+-   **PCA**
+-   **ANN**
+-   **Random Forests**
+-   **Boosting**
 -   **Neural Networks**
 -   **SVM**
 
@@ -74,3 +82,7 @@ B.S. Data Science and Analytics and Statistics \| August 2020 - May 2024 (Antici
 **Special Topics (Time Series) -** *Final Project*
 
 1. [**Droughts in U.S.**](Project_TS.html) \| May 2023
+
+**Machine Learning -** *Final Project*
+
+1. [**Obesity Levels Based on Eating Habits and Physical Condition**](Project_ML.html) \| May 2024
